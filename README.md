@@ -20,7 +20,7 @@ Withdraw funds
 
 View mini statement/transaction history
 
-🔒 Simple file-based or in-memory data handling
+Simple file-based or in-memory data handling
 
 Technologies Used
 Java (Core)
