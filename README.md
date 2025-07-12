@@ -9,16 +9,16 @@ A simple ATM simulator built in Java. This project mimics the core functionaliti
 
 ![Screenshot 2025-06-21 114244](https://github.com/user-attachments/assets/b16beeb7-b887-4105-827a-620ee5b0d263)
 
-Features
-✅ User login with PIN
+✅Features
+User login with PIN
 
-💰 Balance inquiry
+Balance inquiry
 
-➕ Deposit funds
+Deposit funds
 
-➖ Withdraw funds
+Withdraw funds
 
-📜 View mini statement/transaction history
+View mini statement/transaction history
 
 🔒 Simple file-based or in-memory data handling
 
